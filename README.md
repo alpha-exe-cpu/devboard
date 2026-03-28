@@ -10,6 +10,9 @@ So I decided to design my own Raspberry Pi Pico clone because, well, why not? It
 * **Storage:** External Flash (QSPI)
 * **Bling:** I replaced the boring single-color LED with a **WS2812B-2020 RGB LED** connected to **GPIO 25**.
 
+## Firmware Installation
+Grab the RP2040 .uf2 from circuitpython page, hold the bootsel button on the board and plug it in to your pc, and copy the .uf2 to the pi-rp2 drive.
+
 ## The Board
 
 ### PCB
