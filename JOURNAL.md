@@ -53,5 +53,10 @@ To simplify the BOM process, i used fabrication toolkit plugin for kicad, its av
 _Time spent: 0.6h_  
 
 So uhh today after I just came back from vac I started working on the io silkscreen because i thought that without it, i have to keep a printed piece of paper with each i/o pins labeled so yeah, here you go:![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI1MzEsInB1ciI6ImJsb2JfaWQifX0=--0707bf3bb00006fdb83bce5bdedef82924ac0d5c/image.png)
-  
+
+# 04/18/26 - IMPORTANT 04/18/26
+THIS IS A RESUBMISSION TO FORGE. THIS PROJECT HAS ALREADY PASSED DESIGN REVIEW. NO GRANT SHOULD BE ISSUED.
+_Time spent: 0.1h_  
+
+
 
